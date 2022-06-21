@@ -10,6 +10,11 @@
 # Demo is hosted on : https://sample-portfolio-bijay.netlify.app/
 
 
+#Features
+
+Tablet & mobile friendly
+
+
 
 ### Made with ❤️ by [Bijaya Maharana](https://github.com/codeWithBijaya)
 
